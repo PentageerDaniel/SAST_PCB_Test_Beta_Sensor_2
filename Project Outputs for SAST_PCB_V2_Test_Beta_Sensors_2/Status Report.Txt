@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SAST_PCB_V2_Test_Beta_Sensors_2.PrjPcb]
+   Generated File[SAST_PCB_V2B_Test_Beta_Sensors_2.TXT]
+   Generated File[SAST_PCB_V2B_Test_Beta_Sensors_2.LDP]
+   Generated File[SAST_PCB_V2B_Test_Beta_Sensors_2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:57:20 PM On 2024-03-01

@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=NetC1_2 New Net Name=3V3_MAG_2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=MAG_ANAL_2
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=MISO2
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=MOSI2
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=SCK2
+Change Net Name : Old Net Name=NetJ6_1 New Net Name=CS_4K_Gyro
+Change Net Name : Old Net Name=NetJ7_1 New Net Name=POWER_SW
+Change Net Name : Old Net Name=NetJ8_1 New Net Name=Int_4K_Gyro

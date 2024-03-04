@@ -1,0 +1,12 @@
+Added Component: Designator=U4(ASM330LHHX_Eval)
+Added Pin To Net: NetName=3V3 Pin=U4-1
+Added Pin To Net: NetName=3V3 Pin=U4-2
+Added Pin To Net: NetName=3V3 Pin=U4-4
+Added Pin To Net: NetName=3V3 Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Pin To Net: NetName=NetJ8_1 Pin=U4-14
+Added Pin To Net: NetName=NetJ6_1 Pin=U4-19
+Added Pin To Net: NetName=NetJ5_1 Pin=U4-20
+Added Pin To Net: NetName=NetJ4_1 Pin=U4-21
+Added Pin To Net: NetName=NetJ3_1 Pin=U4-22
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors_2 Member=Component U4 ASM330LHHXG1TR_EVAL

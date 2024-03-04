@@ -1,0 +1,144 @@
+*************************************************************
+FileName = SAST_PCB_V2B_Test_Beta_Sensors_2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Overlay
+      File : SAST_PCB_V2B_Test_Beta_Sensors_2.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : SAST_PCB_V2B_Test_Beta_Sensors_2.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : SAST_PCB_V2B_Test_Beta_Sensors_2.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : SAST_PCB_V2B_Test_Beta_Sensors_2.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : SAST_PCB_V2B_Test_Beta_Sensors_2.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : SAST_PCB_V2B_Test_Beta_Sensors_2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : SAST_PCB_V2B_Test_Beta_Sensors_2.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : SAST_PCB_V2B_Test_Beta_Sensors_2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : SAST_PCB_V2B_Test_Beta_Sensors_2.GM
+
+
+Used DCodes :
+    D31
+*************************************************************
+
